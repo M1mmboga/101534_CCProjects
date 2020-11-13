@@ -1,0 +1,7 @@
+void main()
+{
+	int gross, net ,tax;
+	
+	net = gross - tax;
+
+}
